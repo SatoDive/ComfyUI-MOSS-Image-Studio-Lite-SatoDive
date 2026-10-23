@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-moss-image-studio-lite-satodive"
+description = "MOSS-Image Studio Lite (no reference pictures): one Generate node (text-to-image, Layout boxes drawn on the node with a strict strength per box, img2img / inpaint, turbo defaults) next to the native loaders, and a Prompt Enhancer using the model's own Qwen3.5-9B with the official prompt guide (each layout box rewritten on its own)."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/SatoDive/ComfyUI-MOSS-Image-Studio-Lite-SatoDive"
+
+[tool.comfy]
+PublisherId = "satodive"
+DisplayName = "MOSS-Image Studio Lite - SatoDive"
+Icon = ""
