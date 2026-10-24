@@ -4,11 +4,12 @@ description = "MOSS-Image Studio Lite (no reference pictures): one Generate node
 version = "1.0.0"
 license = { text = "MIT" }
 dependencies = []
+readme = "README.md"
 
 [project.urls]
 Repository = "https://github.com/SatoDive/ComfyUI-MOSS-Image-Studio-Lite-SatoDive"
 
 [tool.comfy]
-PublisherId = "satodive"
+PublisherId = "satodive-comfy"
 DisplayName = "MOSS-Image Studio Lite - SatoDive"
 Icon = ""
