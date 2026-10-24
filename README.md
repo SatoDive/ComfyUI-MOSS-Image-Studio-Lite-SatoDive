@@ -7,7 +7,7 @@ text encoder.
 ## Video Tutorial & Walkthrough
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=A53fIhsyTm8">
+  <a href="https://www.youtube.com/watch?v=AWNb8O1pHVQ">
     <img src="https://img.youtube.com/vi/AWNb8O1pHVQ/maxresdefault.jpg" alt="MiniMax-H3 ComfyUI Tutorial" width="750">
   </a>
 </p>
