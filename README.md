@@ -16,6 +16,8 @@ text encoder.
   ▶️ <i>Click the image above to watch the complete step-by-step walkthrough on YouTube.</i>
 </p>
 
+📥 Download ComfyUI Workflow For Free :
+<a href="https://www.patreon.com/SatoDive/posts/moss-image-might-173268998">
 
 ## Nodes
 **MOSS Generate Lite (SatoDive)** - the whole job in one node
