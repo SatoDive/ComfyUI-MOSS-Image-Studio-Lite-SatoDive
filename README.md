@@ -4,6 +4,19 @@ Fast, simple **MOSS-Image** (OpenMOSS, 5B DiT + Qwen3.5-9B) in ComfyUI: one main
 every setting a visible widget, a drawable Layout canvas, inpaint, and a Prompt Enhancer that uses the model's own
 text encoder.
 
+## Video Tutorial & Walkthrough
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=A53fIhsyTm8">
+    <img src="https://img.youtube.com/vi/AWNb8O1pHVQ/maxresdefault.jpg" alt="MiniMax-H3 ComfyUI Tutorial" width="750">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <i>Click the image above to watch the complete step-by-step walkthrough on YouTube.</i>
+</p>
+
+
 ## Nodes
 **MOSS Generate Lite (SatoDive)** - the whole job in one node
 - Text-to-image with turbo defaults (8 steps, CFG 1 with the 8-step DMD LoRA).
